@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "320424597302",
+    "project_id": "vcu-student-app",
+    "storage_bucket": "vcu-student-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320424597302:android:def0f059069efd21e1c597",
+        "android_client_info": {
+          "package_name": "com.example.vcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320424597302-mvbja4p98cu4imhu9bfiivu90eokhb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-IEFXk4qRdglefD0Am49HYmB6l22nig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320424597302-mvbja4p98cu4imhu9bfiivu90eokhb33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320424597302-qd992bq64j9gg900mrpb8o25sf5hr2ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcuteacher.vcuteachers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320424597302:android:a5349315719303cae1c597",
+        "android_client_info": {
+          "package_name": "com.example.vcuadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320424597302-mvbja4p98cu4imhu9bfiivu90eokhb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-IEFXk4qRdglefD0Am49HYmB6l22nig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320424597302-mvbja4p98cu4imhu9bfiivu90eokhb33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320424597302-qd992bq64j9gg900mrpb8o25sf5hr2ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcuteacher.vcuteachers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320424597302:android:92707789f6f22c41e1c597",
+        "android_client_info": {
+          "package_name": "com.vcuteacher.vcuteachers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320424597302-mvbja4p98cu4imhu9bfiivu90eokhb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-IEFXk4qRdglefD0Am49HYmB6l22nig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320424597302-mvbja4p98cu4imhu9bfiivu90eokhb33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320424597302-qd992bq64j9gg900mrpb8o25sf5hr2ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcuteacher.vcuteachers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
